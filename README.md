@@ -1,1 +1,1 @@
-Gabut aja mas
+Kumpulan Proyek Bahasa Pemograman (Python & C)
